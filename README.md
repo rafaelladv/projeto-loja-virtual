@@ -89,3 +89,8 @@ A **Maria Bonita** nasce com o propósito de oferecer mais do que roupas: propor
 ├── ProjetoLojaVirtual.pdf # Documento completo do plano de negócios <br>
 └── README.md # Este arquivo
 
+## 📄 Licença
+Este projeto foi desenvolvido como parte das atividades acadêmicas da Faculdade CDL. <br>
+Uso educacional e não comercial.
+
+---
